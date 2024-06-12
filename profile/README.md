@@ -8,5 +8,5 @@ Problems we are solving:
 - Synthetic video generation
 - Dancing. video models are terrible at making things dance (movement)
 - Collisions between objects
-- 
+
 We are trying to solve the problem of generating accurate videos that describe complex interactions between objects.
