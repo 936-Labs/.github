@@ -1,12 +1,13 @@
 ## 936 Labs
 
-A research lab focused on producing high-quality video models + datasets.
+Projects focused on producing high-quality video models + datasets.
 
-Problems we are solving:
+Hey! I'm eric-prog, a MLE working at DeepAI
 
-- Finetuning video models
-- Synthetic video generation
+Problems I'm solving:
+
 - Dancing. video models are terrible at making things dance (movement)
-- Collisions between objects
+- Walking/running
+- Boxing
 
-We are trying to solve the problem of generating accurate videos that describe complex interactions between objects.
+Will document my learning journey here as I work through these personal projects :)
