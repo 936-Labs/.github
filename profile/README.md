@@ -10,4 +10,4 @@ Problems I'm solving:
 - Walking/running
 - Boxing
 
-Will document my learning journey here as I work through these personal projects :)
+Will document my learning journey here as I work through these projects :)
