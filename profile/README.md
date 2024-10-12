@@ -1,13 +1,12 @@
 ## 936 Labs
 
-Projects focused on producing high-quality video models + datasets.
+Projects focused on producing high-quality video models, datasets and applied ai projects.
 
-Hey! I'm eric-prog, a MLE working at DeepAI
+Hey! I'm eric-prog, prev MLE at DeepAI
 
 Problems I'm solving:
 
-- Dancing. video models are terrible at making things dance (movement)
-- Walking/running
-- Boxing
-
+- movement/physics in video models
+- story telling
+- 
 Will document my learning journey here as I work through these projects :)
